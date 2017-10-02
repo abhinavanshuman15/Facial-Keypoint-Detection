@@ -1,0 +1,3 @@
+Download data(training.zip) from https://www.kaggle.com/c/facial-keypoints-detection/data
+1) Extract training.zip.
+2) Place training.csv in this folder i.e. path of training.csv should be dataset/training.csv. 
